@@ -20,6 +20,7 @@ db.run(`CREATE TABLE IF NOT EXISTS usuarios (
   senha TEXT NOT NULL
 )`);
 //opa
+//opa
 // Configuração do body-parser
 let express = require('express');
 let app = express();
